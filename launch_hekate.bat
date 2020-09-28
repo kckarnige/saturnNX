@@ -1,0 +1,1 @@
+TegraRcmSmash.exe "payload.bin"
