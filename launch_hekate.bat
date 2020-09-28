@@ -1,1 +1,1 @@
-TegraRcmSmash.exe "payload.bin"
+TegraRcmSmash.exe "hekate.bin"
