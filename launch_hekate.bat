@@ -1,1 +1,0 @@
-TegraRcmSmash.exe "hekate.bin"
