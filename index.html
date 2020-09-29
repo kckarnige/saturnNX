@@ -1,14 +1,23 @@
 <html>
 <head>
-<title>NX Payload UI</title>
+<title>SaturnNX UI</title>
+<link rel="icon" type="image/ico" href="favicon.ico">
 <style>
 html,body {
   background-color: #2d2d2d;
   font-family: Arial;
   color: white;
   user-select: none;
- 
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin: 0 auto;
+}
+
 button {
   background-color: #3c3c3c;
   border: none;
@@ -48,7 +57,7 @@ button:hover {
   margin: 0 auto;
 }
   
-img {
+img.icon {
   width: 170px;
   height: 170px;
 }
@@ -65,8 +74,8 @@ img {
 </style>
 </head>
 <body>
-<p style="text-align: center; font-size: 30px; transform:  translate(0%, 60%)">NX Payload</p>
-<p style="text-align: center; font-size: 5px; transform:  translate(0%, 45%)">____________________________________________________________________________________________________________________________________</p>
+<img style="height: 130px; transform:  translate(0%, 10%)" class="center" src="saturnNX.png">
+<p style="text-align: center; font-size: 5px; transform:  translate(0%, 100%)">____________________________________________________________________________________________________________________________________</p>
 
 <p style="text-align: center; font-size: 15px; transform:  translate(0%, 45%)">Created by KayoticCarnige</p>
 <br>
@@ -75,19 +84,19 @@ img {
 
 <form action="atmosphere.php" class="inner">
 <button type="submit">
-<img src="icon_atmosphere.png">
+<img class="icon" src="icon_atmosphere.png">
 </button>
 </form>
 
 <form action="hekate.php" class="inner">
 <button type="submit">
-<img src="icon_hekate.png">
+<img class="icon" src="icon_hekate.png">
 </button>
 </form>
 
 <form action="retroreloaded.php" class="inner">
 <button type="submit">
-<img src="icon_retroreloaded.png">
+<img class="icon" src="icon_retroreloaded.png">
 </button>
 </form>
 </div>
