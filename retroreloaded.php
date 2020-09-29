@@ -1,5 +1,5 @@
 <?php
-$output = shell_exec('TegraRcmSmash.exe "hekate.bin"');
+$output = shell_exec('TegraRcmSmash.exe "RetroReloaded.bin"');
 echo "<html>\n";
 echo "<style>\n";
 echo "html {\n";
