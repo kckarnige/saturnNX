@@ -3,9 +3,9 @@
 </a>
 
 # IMPORTANT NOTES
-As of now, SaturnNX relies on the PHP web shell exploit to boot payloads, this could be potentially dangerous.
+**As of now, SaturnNX relies on the PHP web shell exploit to boot payloads, this could be potentially dangerous.**
 
-I do intend on changing the PHP exploit to something safer, and possibly more compact, like C, Java, or Python, but for now PHP will have to do.
+**I do intend on changing the PHP exploit to something safer, and possibly more compact, like C, Java, or Python, but for now PHP will have to do.**
 ### USE THIS TOOL AT YOUR OWN RISK
 
 # SaturnNX Usage Guide
