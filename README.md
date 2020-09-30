@@ -1,9 +1,11 @@
-
-<img  style="display: block; margin-left: auto; margin-right: auto; text-align: center; margin: 0 auto;" src="https://kckarnige.github.io/saturnNX/saturnNX.png">
+<a href="https://github.com/kckarnige/saturnNX/releases">
+<img style="display: block; margin-left: auto; margin-right: auto; text-align: center; margin: 0 auto;" src="https://kckarnige.github.io/saturnNX/saturnNX.png">
+</a>
 
 # IMPORTANT NOTES
-## As of now SaturnNX utilizes the php web shell exploit to boot payloads, which could be potentially dangerous. I do intend on changing the PHP coding language to a more safe alternative
-## USE SATURNNX AT YOUR OWN RISK
+### As of now, SaturnNX relies on the PHP web shell exploit to boot payloads, this could be potentially dangerous.
+### I do intend on changing the PHP exploit to something safer, and possibly more compact, like C, Java, or Python, but for now PHP will have to do.
+### USE THIS TOOL AT YOUR OWN RISK
 
 # SaturnNX Usage Guide
 
