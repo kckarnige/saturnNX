@@ -11,7 +11,7 @@
 # SaturnNX Usage Guide
 
 ### Preparing
-- Install and launch Zadig.
+- [Install and launch Zadig](https://zadig.akeo.ie/)
 - Plug your Switch into your PC while it's in RCM mode
 - Select Options > List All Devices
 - Select the APX device and check which driver is installed for this specific device
