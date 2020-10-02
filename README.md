@@ -30,6 +30,8 @@
 [**Submit a request!**](https://github.com/kckarnige/saturnNX/issues/new/choose)
 
 ## Credits
-[Rajko Stojadinovic](https://github.com/rajkosto) - TegraRcmSmash
-[Czarek Tomczak](https://github.com/cztomczak) - PHPDesktop
+[Rajko Stojadinovic](https://github.com/rajkosto) - [TegraRcmSmash](https://github.com/rajkosto/TegraRcmSmash)
+
+[Czarek Tomczak](https://github.com/cztomczak) - [PHPDesktop](https://github.com/cztomczak/phpdesktop)
+
 [Tim Holman](https://github.com/tholman) - [The clean GitHub ribbon](https://github.com/tholman/github-corners)
