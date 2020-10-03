@@ -20,7 +20,7 @@
 ### Installation
 - [Download SaturnNX](https://github.com/kckarnige/saturnNX/releases)
 - Extract SaturnNX.zip
-- Open SaturnNX.exe (If a Windows Defender window pops up, click "More Info" and "Run Anyway")
+- Open SaturnNX.bat
 - Click on the payload you'd like to run, and enjoy!
 
 #### Wanna see what I'm planning?
