@@ -36,4 +36,4 @@
 
 [Tim Holman](https://github.com/tholman) - [The clean GitHub ribbon](https://github.com/tholman/github-corners)
 
-[Lord Friky](https://github.com/lordfriky) - [Web Payload Loader](https://github.com/lordfriky/web-cfw-loader)
+[Lord Friky](https://github.com/lordfriky) - [Web Payload Injector](https://webcfw.sdsetup.com/)
