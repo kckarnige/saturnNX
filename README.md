@@ -37,3 +37,5 @@
 [Tim Holman](https://github.com/tholman) - [The clean GitHub ribbon](https://github.com/tholman/github-corners)
 
 [Lord Friky](https://github.com/lordfriky) - [Web Payload Injector](https://webcfw.sdsetup.com/)
+
+[UNKNOWN] - [Slimm Bat to Exe](https://www.softpedia.com/get/Programming/Other-Programming-Files/Slimm-Bat-to-Exe.shtml)
