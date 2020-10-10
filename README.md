@@ -9,6 +9,11 @@
 
 # SaturnNX Usage Guide
 
+### Preparing (Updated)
+- Select the 'Install APX Driver' option (If this option is not present, use the 'InstallAPX.bat' file)
+- If a Windows Security popup shows up, select "Yes"
+- Go through the set up
+
 ### Preparing
 - [Install and launch Zadig](https://zadig.akeo.ie/)
 - Plug your Switch into your PC while it's in RCM mode
@@ -37,5 +42,7 @@
 [Tim Holman](https://github.com/tholman) - [The clean GitHub ribbon](https://github.com/tholman/github-corners)
 
 [Lord Friky](https://github.com/lordfriky) - [Web Payload Injector](https://webcfw.sdsetup.com/)
+
+[eliboa](https://github.com/eliboa) - [TegraRcmGUI / APX Driver](https://github.com/eliboa/TegraRcmGUI) (Found in the Release files of TegraRcmGUI)
 
 [UNKNOWN] - [Slimm Bat to Exe](https://www.softpedia.com/get/Programming/Other-Programming-Files/Slimm-Bat-to-Exe.shtml)
