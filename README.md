@@ -9,7 +9,7 @@
 
 # SaturnNX Usage Guide
 
-### Preparing (Updated)
+### Preparing (UPDATED VERSION)
 - Select the 'Install APX Driver' option (If this option is not present, use the 'InstallAPX.bat' file)
 - If a Windows Security popup shows up, select "Yes"
 - Go through the set up
