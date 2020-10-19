@@ -8,6 +8,6 @@
 
 ## Plans
 - Overhaul the UI and functionality to boost load times and add more features
-(Began 10/17/2020 - Completed [STILL IN DEVELOPMENT!])
+**(Began: 10/17/2020 - Completed: STILL IN DEVELOPMENT!)**
 
 - Replace PHP Desktop with Electron :electron:
