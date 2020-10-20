@@ -23,7 +23,7 @@
 
 ### Installation
 - [Download SaturnNX](https://github.com/kckarnige/saturnNX/releases)
-- Extract SaturnNX.zip
+- Extract ZIP file
 - Open SaturnNX.exe
 - Click on the payload you'd like to run, and enjoy!
 
