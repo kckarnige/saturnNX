@@ -7,5 +7,5 @@
 - [X] Convert the Batch file into a seemless EXE file **SUCCESSFUL**
 
 ## Plans
-- Overhaul the UI and functionality to boost load times and add more features
+- Overhaul the UI and functionality to boost load times and add more efficiency
 **(Began: 10/17/2020 - Completed: STILL IN DEVELOPMENT! 75% Done)**
